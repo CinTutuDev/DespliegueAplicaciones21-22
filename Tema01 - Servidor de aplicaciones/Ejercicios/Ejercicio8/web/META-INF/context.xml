@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context antiJARLocking="true" path="/Ejercicio3">
+    <Valve className="org.apache.catalina.valves.RemoteAddrValve" allow="192.168.0.3"/>
+</Context>
